@@ -4,19 +4,19 @@ This project aims to predict the overall rating of beers based on various review
 
 ## Project Structure
 
-📂 Repository Structure
-📦 Beer-Rating-Prediction
-├── 📜 Beer_dataset_README.pdf # About The Task
-├── 📜 Data_Science_Case_Study.ipynb # Jupyter Notebook containing analysis, modeling, and evaluation
-├── 📜 README.md # Project documentation
-├── 📜 requirements.txt # Required libraries & dependencies
-└── 📜 train.csv # Dataset
+# Repository Structure
+Beer-Rating-Prediction
+├── Beer_dataset_README.pdf  # About the Task
+├── Data_Science_Case_Study.ipynb  # Jupyter Notebook containing analysis, modeling, and evaluation
+├── README.md  # Project documentation
+├── requirements.txt  # Required libraries & dependencies
+└── train.csv  # Dataset
 
 ### Technologies Used
 
-• Programming Language: Python
-• Machine Learning Models: LightGBM, CatBoost
-• Libraries & Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, CatBoost, LightGBM
+- Programming Language: Python
+- Machine Learning Models: LightGBM, CatBoost
+- Libraries & Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, CatBoost, LightGBM
 
 ### **1. data_cleaning_and_preprocessing.py**
 
