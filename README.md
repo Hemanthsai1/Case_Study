@@ -8,13 +8,13 @@ This project aims to predict the overall rating of beers based on various review
 Beer-Rating-Prediction
 
 ├── Beer_dataset_README.pdf    # About the Task
-|
+
 ├── Data_Science_Case_Study.ipynb    # Jupyter Notebook containing analysis, modeling, and evaluation
-|
+
 ├── README.md    # Project documentation
-|
+
 ├── requirements.txt    # Required libraries & dependencies
-|
+
 └── train.csv    # Dataset
 
 ### Technologies Used
